@@ -1,0 +1,56 @@
+.navbar{
+    background-color: #285430;
+}
+
+.b{
+    background-color: #285430;
+    border: none;
+    width: 90px;
+    padding: 7px;
+    border-radius: 8px;
+    color: white;
+}
+
+.b:hover{
+    background-color: #224428;
+}
+
+.b1{
+    background-color: #285430;
+    border: none;
+    text-decoration: none;
+    width: 90px;
+    padding: 7px;
+    border-radius: 8px;
+    color: white;
+}
+
+.b1:hover{
+    background-color: #224428;
+    text-decoration: none;
+    color: white;
+}
+
+.edit{
+    display: block;
+    background-color: #fae317;
+    border: none;
+    margin-bottom: 20px;
+    text-decoration: none;
+    width: 60px;
+    padding: 9px;
+    border-radius: 8px;
+    color: black;
+}
+
+.hapus{
+    display: block;
+    background-color: #db0b0b;
+    border: none;
+    margin-bottom: 3px;
+    text-decoration: none;
+    width: 60px;
+    padding: 9px;
+    border-radius: 8px;
+    color: black;
+}
